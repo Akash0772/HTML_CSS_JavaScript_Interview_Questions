@@ -1,0 +1,78 @@
+#CSS interview question
+
+
+
+
+Question1:  	What is difference between css and css3 ?
+Answer:		CSS (Cascading Style Sheets) is a language used for describing the look and formatting of a document written in a markup language. 
+		CSS3 is the latest version of CSS and includes new features such as selectors, box-sizing, text-shadow, multiple backgrounds, 
+		and border-radius. CSS3 also includes new modules such as Flexbox, Grid, and Animations.
+
+
+
+Question2:  	What are the selector in css ?
+Answer:		Selectors in CSS are used to select elements in an HTML document in order to apply styles to them. There are several types of 
+		selectors, including type selectors, class selectors, ID selectors, attribute selectors, and pseudo-class selectors.
+
+
+
+Question3:  	What is media query in css ?
+Answer:		Media queries in CSS are used to apply different styles to a document based on the device or viewport size. Media queries can be 
+		used to target different devices, such as smartphones, tablets, and desktop computers, as well as different viewport sizes.
+
+
+
+Question4:  	What is different position in css ?
+Answer:		CSS offers several different positioning options for elements. These include static, relative, absolute, fixed, and sticky. 
+		Static positioning is the default position for elements and places them in the normal flow of the document. Relative positioning 
+		allows elements to be positioned relative to their normal position. Absolute positioning allows elements to be positioned 
+		relative to their parent element. Fixed positioning allows elements to be positioned relative to the viewport. 
+
+
+
+Question5:  	What is bom in css ?
+Answer:		BOM stands for Box Model in CSS. The box model is a way of describing the layout of an HTML element. It consists of 
+		four parts: margin, border, padding, and content. The margin is the space outside of the element, the border is the line 
+		around the element, the padding is the space between the border and the content, and the content is the actual content of the element.
+
+
+
+Question6:  	What is difference between PX,unit,em,rem in css ?
+Answer:		PX is a unit of measurement in CSS that stands for pixels. It is an absolute unit of measurement and is used to specify the size of 
+		elements in a web page. EM is a relative unit of measurement in CSS that stands for the font size of the element. 
+		REM is a relative unit of measurement in CSS that stands for the font size of the root element. Unit is a 
+		generic term for any unit of measurement in CSS, such as PX, EM, or REM.
+
+
+
+Question7:  	What is flex box in css ?
+Answer:		Flexbox is a layout mode in CSS that allows elements to be laid out in a flexible and responsive way. It is used to create 
+		layouts that are flexible and responsive to different screen sizes and devices. Flexbox makes it easier to 
+		create complex layouts with fewer lines of code.
+
+
+
+Question8:  	What is pseudo selector in css ?
+Answer:		Pseudo selectors in CSS are used to select elements based on their state or position in the document. They are used to 
+		apply styles to elements that are not directly accessible through the DOM. 
+		Examples of pseudo selectors include :hover, :active, :first-child, and :last-child.
+
+
+
+Question9: 	 How to make website responsive ?
+Answer:		 To make a website responsive, you need to use media queries and flexible layouts. Media queries allow you to apply different 
+		styles to a document based on the device or viewport size. Flexible layouts allow elements to be laid out in a flexible 
+		and responsive way. You can also use responsive images and fluid grids to make your website responsive.
+
+
+
+Question10:  	What are breakpoint for viewport responsive device ?
+Answer:		Breakpoints are the points at which a website's layout changes to accommodate different viewport sizes. Common breakpoints are 
+		320px, 480px, 768px, 1024px, and 1280px. These breakpoints are used to create a responsive design that looks good on all devices.
+
+
+
+Question11:  	Why we use box-sizing in css ?
+Answer:		Box-sizing in CSS is used to control the sizing of elements. It allows you to specify how the width and height of an element 
+		should be calculated, including the padding and border. This can be useful for creating layouts that are consistent across 
+		different browsers and devices.
