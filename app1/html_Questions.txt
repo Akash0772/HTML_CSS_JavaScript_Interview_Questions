@@ -1,0 +1,80 @@
+#HTML interview question
+
+
+Question1: 	What is <!Doctype html> in Html5 ?
+Answer:		<!Doctype html> is the document type declaration for HTML5. 
+		It is used to tell the web browser which version of HTML the page is written in.
+
+
+
+Question2:	What is difference between div and span in Html ?
+Answer: 	The main difference between a div and a span is that a div is a block-level element, 
+		while a span is an inline element. A div is used to group related elements together 
+		and is often used to apply styles to a group of elements, 
+		while a span is used to apply styles to a single element.
+
+
+
+Question3:	What is semantic tags and non semantic tags in HTML ?
+Answer:		Semantic tags are HTML tags that provide meaning to the content they contain. 
+		Examples of semantic tags include <header>, <footer>, <article>, and <section>.
+ 
+		Non-semantic tags are HTML tags that do not provide any meaning to the content they contain. 
+		Examples of non-semantic tags include <div> and <span>.
+
+
+
+Question4:	What is difference between html and html5 ?
+Answer: 	The main difference between HTML and HTML5 is that HTML5 supports the use of multimedia and 
+		graphical content, while HTML does not. HTML5 also supports the use of new elements, such as 
+		<header>, <footer>, and <section>, which are not supported in HTML. Additionally, HTML5 supports 
+		the use of APIs, such as the Geolocation API, which allows websites to access the user's location.
+
+
+
+Question5:	What is Iframe tag in Html5 ?
+Answer: 	An iframe is an HTML tag that allows you to embed another HTML document within the current HTML document. 
+		It is commonly used to embed videos, maps, and other external content into a web page.
+
+
+
+Question6:	What are the formatting tags in html ?
+Answer: 	The formatting tags in HTML include <b>, <i>, <u>, <strong>, <em>, <sup>, <sub>, <strike>, <small>, <big>, 
+		<tt>, <code>, <pre>, and <blockquote>. These tags are used to format text, such as making it bold, 
+		italic, underlined, etc.
+
+
+
+Question7:	What is difference <b> and <Strong> in html ?
+Answer:		The <b> tag is used to make text bold, while the <strong> tag is used to give text strong importance. 
+		The <b> tag is a presentational element, while the <strong> tag is a semantic element.
+
+
+
+Question8:	What is view port attribute in html ?
+Answer: 	The viewport attribute is an HTML tag that is used to control the size and scaling of a webpage 
+		when viewed on a mobile device. It is used to ensure that the webpage is displayed correctly 
+		on different screen sizes and resolutions.
+
+
+Question9:	 What is attribute in html
+Answer: 	An attribute is an additional piece of information that is associated with an HTML element. 
+		Attributes provide additional information about an element, such as its id, class, or style. 
+		Attributes are specified within the opening tag of an element.
+
+
+
+Question10:	What is block level element and inline element in html ?
+Answer: 	A block-level element is an element that takes up the full width of the page and starts on a new line. 
+		Examples of block-level elements include <div>, <p>, <h1>, and <form>. 
+
+		An inline element is an element that only takes up as much width as necessary and does not start on a new line. 
+		Examples of inline elements include <span>, <a>, <img>, and <strong>.
+
+
+
+Question11	What is difference between Html and Html5 ?
+Answer: 	The main difference between HTML and HTML5 is that HTML5 supports the use of multimedia and graphical content, 
+		while HTML does not. HTML5 also supports the use of new elements, such as <header>, <footer>, and <section>, 
+		which are not supported in HTML. Additionally, HTML5 supports the use of APIs, such as the Geolocation API, 
+		which allows websites to access the user's location.
