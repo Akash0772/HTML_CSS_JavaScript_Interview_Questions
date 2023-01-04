@@ -73,8 +73,15 @@ Answer: 	A block-level element is an element that takes up the full width of the
 
 
 
-Question11	What is difference between Html and Html5 ?
+Question11:	What is difference between Html and Html5 ?
 Answer: 	The main difference between HTML and HTML5 is that HTML5 supports the use of multimedia and graphical content, 
 		while HTML does not. HTML5 also supports the use of new elements, such as <header>, <footer>, and <section>, 
 		which are not supported in HTML. Additionally, HTML5 supports the use of APIs, such as the Geolocation API, 
 		which allows websites to access the user's location.
+
+
+
+Question12:  	What is difference between div and class in Html ?
+Answer: 	The main difference between a div and a class is that a div is an HTML element, while a class is an attribute. 
+		A div is used to group related elements together and is often used to apply styles to a group of elements, 
+		while a class is used to apply styles to a single element.
