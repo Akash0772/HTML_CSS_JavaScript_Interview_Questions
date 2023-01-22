@@ -2,8 +2,7 @@
 
 
 Question1: 	What is <!Doctype html> in Html5 ?
-Answer:		<!Doctype html> is the document type declaration for HTML5. 
-		It is used to tell the web browser which version of HTML the page is written in.
+Answer:		<!Doctype html> is the document type declaration for HTML5. It is used to tell the web browser which version of HTML the page is written in.
 
 
 
@@ -12,7 +11,13 @@ Answer: 	The main difference between a div and a span is that a div is a block-l
 		while a span is an inline element. A div is used to group related elements together 
 		and is often used to apply styles to a group of elements, 
 		while a span is used to apply styles to a single element.
-
+		
+			<div>										<span>
+	The <div> tag is a block level element.						The <span> tag is an inline element.
+	It is best to attach it to a section of a web page.				It is best to attach a CSS to a small section of a line in a web page.
+	It accepts align attribute.							It does not accept align attribute.
+	This tag should be used to wrap a section, for highlighting that section.	This tag should be used to wrap any specific word that you want to highlight in 
+											your webpage.
 
 
 Question3:	What is semantic tags and non semantic tags in HTML ?
@@ -81,7 +86,5 @@ Answer: 	The main difference between HTML and HTML5 is that HTML5 supports the u
 
 
 
-Question12:  	What is difference between div and class in Html ?
-Answer: 	The main difference between a div and a class is that a div is an HTML element, while a class is an attribute. 
-		A div is used to group related elements together and is often used to apply styles to a group of elements, 
-		while a class is used to apply styles to a single element.
+Question12:  	What is difference between Id and Class in Html ?
+Answer: 	The main difference between an ID and a class is that an ID can be used to identify one element, whereas a class can be used to identify more than one.
